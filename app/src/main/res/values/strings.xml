@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">EcomHackathon</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="open">open</string>
+    <string name="close">close</string>
+    <string name="credentialsError">There was a problem with your credentials please check the readme</string>
+    <string name="executeExampleRequest">Get Products</string>
+    <string name="createCart">Create Cart</string>
+    <string name="deleteCart">Delete Cart</string>
+</resources>
